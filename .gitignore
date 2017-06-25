@@ -19,3 +19,9 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+.DS_Store
+.irbrc
+app/.DS_Store
+app/assets/images/rails.png
+example_user.rb
+nano.save
